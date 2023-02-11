@@ -16,3 +16,6 @@ After cloning or forking the repository, you can run any of the Java programs th
    - `javac DisplayLetters.java`
 3. Run the *class* file created
    - `java DisplayLetters`
+
+## Output
+![Output of Java program](images/graphic_letters_1.png)
